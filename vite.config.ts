@@ -4,7 +4,7 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/github-page/markdown-note-app/',
+  base: '/markdown-note-app/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
