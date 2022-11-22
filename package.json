@@ -1,7 +1,7 @@
 {
   "name": "markdown-note-app",
   "author": "thecloer",
-  "homepage": "https://thecloer.github.io/repository/markdown-note-app",
+  "homepage": "https://thecloer.github.io/markdown-note-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

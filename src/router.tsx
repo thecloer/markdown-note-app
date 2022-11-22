@@ -39,7 +39,7 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: '/git-page/markdown-note-app/' }
+  { basename: '/markdown-note-app/' }
 );
 
 export default router;
